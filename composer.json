@@ -1,5 +1,5 @@
 {
     "require": {
-        "cboden/ratchet": "^0.4.4"
+        "kreait/firebase-php": "^5.26"
     }
 }
